@@ -1,0 +1,20 @@
+{
+  "name": "qrcodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "3.1.7",
+    "express": "^4.17.1",
+    "qrcode": "^1.4.4"
+  },
+  "devDependencies": {
+    "prettier": "2.4.1"
+  }
+}
